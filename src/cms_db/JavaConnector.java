@@ -9,5 +9,10 @@ package cms_db;
  * @author User
  */
 public class JavaConnector {
+    private final String DB_URL = "jdbc:mysql://localhost";
+    private final String USER = "admin";
+    private final String PASSWORD = "java";
     
+        }
+    }
 }
