@@ -4,6 +4,8 @@
  */
 package cms_db;
 
+import java.util.Scanner;
+
 /**
  *
  * @author User
@@ -14,7 +16,9 @@ public class Cms_db {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner userINPUT = new Scanner(System.in);
+        
+        
     }
     
 }
