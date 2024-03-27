@@ -26,7 +26,7 @@ public class Cms_db {
         } catch(Exception e){
             System.out.println(e);
         }
-        if(userINPUT == 1){
+        if(userANSWER == 1){
             System.out.println("Introduce your credentials: ");
             System.out.println("Username: " + userINPUT);
             System.out.println("Password: " + userINPUT);
